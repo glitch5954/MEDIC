@@ -1,0 +1,48 @@
+ 
+ 
+
+#p1{
+  font-size: 70px;
+  color: black;
+  font-weight: bold;
+  padding: 0px 30px 0px ;
+  margin: 70px 0px 0px;
+  background-repeat: no-repeat;
+  text-align: center;
+}
+p{
+  font-size: 50px;
+}
+.doctor1{
+  margin-left: 100px;
+  margin-top: 150px;
+  float: left;
+
+  
+}
+doc1{
+  border-style: double;
+  border-color: aqua;
+  box-shadow: 0 0 10px 0 #00aca4;
+  border-radius: 50%;
+}
+/* .doctor2{
+  float:left;
+  width: 500px;
+  height: auto;
+}
+.doctor3{
+  float: right;
+  width: 500px;
+  height: auto;
+}
+.doctor4{
+  float: left;
+  width: 500px;
+  height: auto;
+}
+.doctor5{
+  float: right;
+  width: 500px;
+  height: auto;
+} */

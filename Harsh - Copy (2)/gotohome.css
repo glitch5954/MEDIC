@@ -1,0 +1,88 @@
+/* styles.css */
+
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1, h2, h3 {
+    color: #333;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  /* Navigation styles */
+  nav {
+    background-color: #007bff;
+    padding: 10px;
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  nav li {
+    margin: 0 10px;
+  }
+  
+  /* Main content styles */
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  section h2 {
+    color: #007bff;
+    margin-bottom: 10px;
+  }
+  
+  /* Form styles */
+  form {
+    margin-top: 10px;
+  }
+  
+  form label, form input, form textarea {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  form input, form textarea {
+    width: 100%;
+    padding: 5px;
+  }
+  
+  form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+  }
+  

@@ -1,0 +1,161 @@
+#header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    
+}
+#navbar ,ul,  li , a{
+    display: inline;
+    text-decoration: none;
+    text-indent: -10px;
+    padding: 10px;
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Roboto Slab', serif;
+}
+#logo_img{
+    padding: 10px;
+
+}
+body{
+    background-color: rgb(252, 252, 252);
+}
+#hero, .hero_p{
+    font-size: 70px;
+    color: black;
+    font-weight: bold;
+    padding: 0px 30px 0px ;
+    margin: 70px 0px 0px;
+    background-repeat: no-repeat;
+
+    
+}
+
+
+#small_heading , h6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding :0px 30px 0px;
+    margin: 0px 0px 0px;
+}
+.submit-button,#button_id{
+    margin-top: -100px;
+    padding:20px;
+}
+
+/* Change button style on hover */
+#button_id{
+
+
+    font-size: 20px;
+    text-align:center;
+    border-radius: 100px;
+    background-color: black;
+    font-family: "HelveticaNeue Light" , sans-serif !important;
+    object-position: -10px;
+}
+
+
+#button_id:hover{
+    box-shadow: 0px 0 20px 0 #000000;
+     
+
+}
+#hero_img{
+    float: right;
+}
+#hero_img2{
+    float: right;
+
+}
+#exp{
+    text-align: center;
+    font-size:48px;
+    font-family: "Helvetica Neue";
+    margin: 100px;
+    padding-top: 20%;
+    margin-top: -200px;
+}
+.hh{
+    font-size:20px;
+    margin: 0px 0px 0px;
+    
+}
+#mobile{
+    padding-top: 50px;
+    padding-left: 30px;
+}
+#pp{
+    margin: 0px 0px 0px;
+}
+#IPD{
+    text-align: center;
+    font-size:48px;
+    float: right;
+    padding-right: 200px;
+    
+     
+     
+}
+#ipd_img{
+    float: left;
+    margin-top: 10%;
+}
+#p3{
+    float: right;
+
+}
+#lab{
+    float: right;
+    margin-top: 10%;
+    margin-left: 100%;
+     
+}
+#lab_cat{
+    float: left;
+    margin-top:-300px;
+    padding-bottom: 300px;
+}
+.bar1{
+    text-align:center;
+    border-radius: 100px;
+    margin: 20px;
+    background-color: black;
+    font-family: "HelveticaNeue Light" , sans-serif !important;
+
+    
+}
+.bar1:hover{
+    box-shadow: 0 0 10px 0 rgb(5, 148, 143);
+}
+.bar2{
+    text-align:center;
+    border-radius: 100px;
+    margin: 20px;
+    background-color: black;
+    font-family: "HelveticaNeue Light" , sans-serif !important;
+}
+.bar2:hover{
+    box-shadow: 0 0 10px 0 rgb(5, 148, 143);
+}
+.bar3{
+    text-align:center;
+    border-radius: 100px;
+    margin: 20px;
+    background-color: black;
+    font-family: "HelveticaNeue Light" , sans-serif !important;
+}
+.bar3:hover{
+    box-shadow: 0 0 10px 0 rgb(5, 148, 143);
+}
+.bar4{
+    text-align:center;
+    border-radius: 100px;
+    margin: 20px;
+    background-color: black;
+    font-family: "HelveticaNeue Light" , sans-serif !important;
+    
+}
+.bar4:hover{
+    box-shadow: 0 0 10px 0 rgb(5, 148, 143);
+}
